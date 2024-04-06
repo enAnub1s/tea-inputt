@@ -7,8 +7,6 @@ import bs4
 import threading
 import urllib.request
 import json
-
-site = ''' + "'"+"https://telegra.ph/ddos-03-09"+"'" + '''
                                                    
 def cust():
     try:
